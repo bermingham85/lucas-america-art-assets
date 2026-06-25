@@ -1424,22 +1424,6 @@
     "file": "Copy of 431 Bailarina.png"
   },
   {
-    "slug": "x090-bust",
-    "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x090-bust.png",
-    "title": "Bust",
-    "title_en": "Bust",
-    "title_es": "Busto",
-    "title_pt": "Busto",
-    "title_gn": "Busto",
-    "gn_review": true,
-    "category": "Pop Culture",
-    "number": "",
-    "artist_tag": "BatmanWorld",
-    "width": 902,
-    "height": 1080,
-    "file": "Copy of 438 Busto BatmanWorld.png"
-  },
-  {
     "slug": "x091-unidentified",
     "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x091-unidentified.png",
     "title": "Unidentified",
@@ -1680,22 +1664,6 @@
     "file": "Foto de 🍃 (2).png"
   },
   {
-    "slug": "x106-submarine-bed",
-    "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x106-submarine-bed.png",
-    "title": "Submarine & Bed",
-    "title_en": "Submarine & Bed",
-    "title_es": "Submarino y Cama",
-    "title_pt": "Submarino e Cama",
-    "title_gn": "Submarino y Cama",
-    "gn_review": true,
-    "category": "Statue / Object",
-    "number": "",
-    "artist_tag": "",
-    "width": 556,
-    "height": 545,
-    "file": "Foto de 🍃 (3).png"
-  },
-  {
     "slug": "x107-submarine-bed",
     "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x107-submarine-bed.png",
     "title": "Submarine & Bed",
@@ -1920,22 +1888,6 @@
     "file": "Sin título (1).png"
   },
   {
-    "slug": "x121-swan",
-    "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x121-swan.png",
-    "title": "Swan",
-    "title_en": "Swan",
-    "title_es": "Cisne",
-    "title_pt": "Cisne",
-    "title_gn": "Cisne",
-    "gn_review": true,
-    "category": "Animal",
-    "number": "",
-    "artist_tag": "",
-    "width": 675,
-    "height": 542,
-    "file": "Sin título (2).png"
-  },
-  {
     "slug": "x122-swan",
     "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x122-swan.png",
     "title": "Swan",
@@ -2126,22 +2078,6 @@
     "width": 268,
     "height": 261,
     "file": "WhatsApp Image 2018-08-28 at 6.39.41 PM.png"
-  },
-  {
-    "slug": "x134-beaver",
-    "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x134-beaver.png",
-    "title": "Beaver",
-    "title_en": "Beaver",
-    "title_es": "Castor",
-    "title_pt": "Castor",
-    "title_gn": "Castor",
-    "gn_review": true,
-    "category": "Animal",
-    "number": "",
-    "artist_tag": "",
-    "width": 720,
-    "height": 1280,
-    "file": "WhatsApp Image 2018-08-29 at 10.02.39 PM (1).png"
   },
   {
     "slug": "x135-beaver",
@@ -2446,22 +2382,6 @@
     "width": 293,
     "height": 462,
     "file": "conejo-con-traje.png"
-  },
-  {
-    "slug": "x154-unidentified",
-    "image_url": "https://cdn.jsdelivr.net/gh/bermingham85/lucas-america-art-assets@main/images/x154-unidentified.png",
-    "title": "Unidentified",
-    "title_en": "Unidentified",
-    "title_es": "Sin identificar",
-    "title_pt": "Não identificado",
-    "title_gn": "",
-    "gn_review": false,
-    "category": "Uncategorized",
-    "number": "",
-    "artist_tag": "",
-    "width": 490,
-    "height": 428,
-    "file": "cor (1).png"
   },
   {
     "slug": "x155-sacred-heart",
